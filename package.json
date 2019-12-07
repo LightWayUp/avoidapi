@@ -1,6 +1,6 @@
 {
   "name": "avoidapi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple score API for the Discord game, Avoid.",
   "main": "index.js",
   "scripts": {
