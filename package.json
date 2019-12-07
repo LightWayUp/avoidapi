@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "FX Studios",
+  "repository": "https://github.com/vanishedvan/avoidapi",
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.0"
