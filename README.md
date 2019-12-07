@@ -1,7 +1,7 @@
 # [avoidapi][NPM Package]
 
 ## Badges
-[![Join our Discord](https://img.shields.io/discord/519513445721178133.svg?longCache=true&style=flat-square&logo=discord&color=7289da)](https://discord.gg/fxstudios) [![MIT License](https://img.shields.io/badge/license-MIT-0366d6.svg?longCache=true&style=flat-square)](/LICENSE) [![View package on npm](https://img.shields.io/npm/v/avoidapi.svg?longCache=true&style=flat-square&logo=npm&color=cb3837)][NPM Package] [![Star project on GitHub](https://img.shields.io/github/stars/vanishedvan/avoidapi.svg?longCache=true&style=social)](https://github.com/vanishedvan/avoidapi)
+[![Join our Discord](https://img.shields.io/discord/565609735966031896.svg?longCache=true&style=flat-square&logo=discord&color=7289da)](https://discord.gg/fxstudios) [![MIT License](https://img.shields.io/badge/license-MIT-0366d6.svg?longCache=true&style=flat-square)](/LICENSE) [![View package on npm](https://img.shields.io/npm/v/avoidapi.svg?longCache=true&style=flat-square&logo=npm&color=cb3837)][NPM Package] [![Star project on GitHub](https://img.shields.io/github/stars/vanishedvan/avoidapi.svg?longCache=true&style=social)](https://github.com/vanishedvan/avoidapi)
 
 ## Introduction
 - This package lets you get the game user database, providing you the user ID and their game score.
